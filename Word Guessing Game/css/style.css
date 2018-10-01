@@ -1,0 +1,32 @@
+/*CSS Styles go here*/
+
+body {
+    text-align: center;
+    background: linear-gradient(45deg, blueviolet, crimson);
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    
+}
+
+h1 {
+    border: 1px solid white;
+    color: white;
+    text-shadow: 2px 2px black;
+    height:150px;   
+    padding-top: 3%;
+    
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+
+
+}
